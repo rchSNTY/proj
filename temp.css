@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+
+div{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: rgb(74, 72, 72);
+    text-align: center;
+    margin-top: 55px;
+}
+
+input{
+    margin-top: 15px;
+}
+
+h1{
+    color: rgb(87, 87, 249);
+}
+
+#box{
+    width: 40%;
+    border: solid black 1px;
+    font-size: 25px;
+}
+
+button{
+    background-color: red;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+p{
+     margin-top: 6px;
+}
